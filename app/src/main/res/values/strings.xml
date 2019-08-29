@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GithubViewer</string>
+    <string name="enter">Вход</string>
+    <string name="continue_as_anonymous">Продолжить анонимно</string>
+    <string name="field_required_error">Данное поле обязательно</string>
+    <string name="api_error_snackbar_message">Ошибка при получении данных</string>
+    <string name="net_error_snackbar_message">Проблемы с интернет-соединением</string>
+    <string name="menu_hint_search">Поиск</string>
+    <string name="menu_hint_logout">Выйти</string>
+    <string name="menu_hint_login">Войти</string>
+    <string name="request_limit_exceeded_error">Превышен лимит запросов. Пожалуйста, подождите.</string>
+    <string name="query_hint">Поиск</string>
+    <string name="hint_login">Имя пользователя</string>
+    <string name="hint_password">Пароль</string>
+    <string name="bad_credentials_error">Неверное имя пользователя или пароль</string>
+    <string name="no_description">Описание отстутствует</string>
+</resources>
